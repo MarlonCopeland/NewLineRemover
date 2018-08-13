@@ -1,0 +1,10 @@
+c:\users\marloncopeland\source\repos\NewLineRemover\NewLineRemover\bin\Debug\NewLineRemover.exe.config
+c:\users\marloncopeland\source\repos\NewLineRemover\NewLineRemover\bin\Debug\NewLineRemover.exe
+c:\users\marloncopeland\source\repos\NewLineRemover\NewLineRemover\bin\Debug\NewLineRemover.pdb
+c:\users\marloncopeland\source\repos\NewLineRemover\NewLineRemover\bin\Debug\ExcelDataReader.dll
+c:\users\marloncopeland\source\repos\NewLineRemover\NewLineRemover\bin\Debug\ExcelDataReader.xml
+c:\users\marloncopeland\source\repos\NewLineRemover\NewLineRemover\obj\Debug\NewLineRemover.csprojAssemblyReference.cache
+c:\users\marloncopeland\source\repos\NewLineRemover\NewLineRemover\obj\Debug\NewLineRemover.csproj.CoreCompileInputs.cache
+c:\users\marloncopeland\source\repos\NewLineRemover\NewLineRemover\obj\Debug\NewLineRemover.csproj.CopyComplete
+c:\users\marloncopeland\source\repos\NewLineRemover\NewLineRemover\obj\Debug\NewLineRemover.exe
+c:\users\marloncopeland\source\repos\NewLineRemover\NewLineRemover\obj\Debug\NewLineRemover.pdb
